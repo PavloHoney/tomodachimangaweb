@@ -1,0 +1,10 @@
+#container {
+	padding-top: 100px;
+    
+}
+
+#col-6 {
+	padding-top: 50px;
+    width: 25%;
+    align-self: center;
+}
