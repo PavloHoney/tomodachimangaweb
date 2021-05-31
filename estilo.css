@@ -8,3 +8,12 @@
     width: 25%;
     align-self: center;
 }
+
+#tituloDisp{
+    padding-top: 3%;
+}
+
+.container{
+    background-color: white;
+    padding-bottom: 5.5%;
+}
